@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/TESTES/My2DGame/src/entity/Projectile.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/control/OwnItemDao.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/main/AssetSetter.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/object/OBJ_Axe.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/control/WorldItemDAO.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/main/UI.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/entity/Player.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/model/OwnItem.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/main/KeyHandler.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/control/ItemDefinitionDAO.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/main/EventRect.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/utility/DatabaseConnection.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/control/InventoryDAO.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/model/Monster.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/control/GameDataManager.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/tile/TileManager.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/entity/NPC_BMO.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/entity/NPC_Jake.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/monster/MON_Skeleton.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/main/Main.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/object/OBJ_ArrowAmmo.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/model/Item.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/control/OwnedObjectDao.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/main/EventHandler.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/model/ItemDefinition.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/entity/Entity.java</file>
+            <file>file:/C:/TESTES/My2DGame/src/tile/Tile.java</file>
+        </group>
+    </open-files>
+</project-private>
